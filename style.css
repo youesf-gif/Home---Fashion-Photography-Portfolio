@@ -19,7 +19,7 @@ html {
     background-color: var(--black);
     color: var(--white);
     scroll-behavior: smooth;
-    min-width: 400px;
+    min-width: 300px;
 }
 
 .fahkwang-light {
