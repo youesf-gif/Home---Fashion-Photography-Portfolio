@@ -807,6 +807,7 @@ html {
 }
 .end-container h2 {
     text-transform: uppercase;
+    font-size: 15px;
 }
 .end-container .end-link {
     border-bottom: 1px solid var(--white);
